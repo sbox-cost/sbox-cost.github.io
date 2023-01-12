@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-table { border: none !important; outline:none !important; border-collapse: collapse !important }
-th, td { border: none !important; outline:none !important; }
+#organizers > table { border: none !important; outline:none !important; border-collapse: collapse !important }
+#organizers > th, td { border: none !important; outline:none !important; }
 
  
