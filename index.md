@@ -41,11 +41,15 @@ TODO
 
 TODO
 
-<img src="/assets/fig/lopez-ibanez-small.jpg">
-![](/assets/fig/lopez-ibanez-small.jpg)
+<img src="/assets/fig/lopez-ibanez-small.jpg" />
+
+![test](/assets/fig/allmendiger.jpg)
+![test2](assets/fig/allmendiger.jpg)
+![test3](./assets/fig/allmendiger.jpg)
+
 ## Organizers
 
-| |**Anna Kononova**|
+| |**Anna Kononova**<br>Anna Kononova is an Assistant Professor at the Leiden Institute of Advanced Computer Science, Leiden University, The Netherlands. She received her MSc degree in Applied Mathematics from Yaroslavl State University (Russia) in 2004 and PhD degree in Computer Science from University of Leeds (UK) in 2010. After the total of 5 years of postdoctoral experiences at Technical University Eindhoven (The Netherlands) and Heriot-Watt University (Edinburgh, UK), Anna has spent a number of years working as a mathematician in industry. Her current research interests include analysis of optimisation algorithms and machine learning.|
 | |**Olaf Mersmann**<br>Olaf Mersmann is a Professor for Data Science at TH Köln - University of Applied Sciences. He received his BSc, MSc and PhD in Statistics from TU Dortmund. His research interests include using statistical and machine learning methods on large benchmark databases to gain insight into the structure of the algorithm choice problem.|
 | |**Diederick Vermetten**<br>Diederick Vermetten is a PhD student at LIACS. He is part of the core development team of IOHprofiler, with a focus on the IOHanalyzer. His research interests include benchmarking of optimization heuristics, dynamic algorithm selection and configuration as well as hyperparameter optimization.|
 |![](/assets/fig/lopez-ibanez-small.jpg)|**Manuel López-Ibáñez**<br>Dr. López-Ibáñez is a senior lecturer in the Decision and Cognitive Sciences Research Centre at the Alliance Manchester Business School, University of Manchester, UK. Between 2020 and 2022, he was also a "Beatriz Galindo" Senior Distinguished Researcher at the University of Málaga, Spain. He received the M.S. degree in computer science from the University of Granada, Granada, Spain, in 2004, and the Ph.D. degree from Edinburgh Napier University, U.K., in 2009. He has published 32 journal papers, 9 book chapters and 54 papers in peer-reviewed proceedings of international conferences on diverse areas such as evolutionary algorithms, multi-objective optimization, and various combinatorial optimization problems. His current research interests are experimental analysis and the automatic configuration and design of stochastic optimization algorithms, for single and multi-objective problems. He is the lead developer and current maintainer of the irace software package for automatic algorithm configuration (http://iridia.ulb.ac.be/irace) and the EAF package for the analysis of multi-objective optimizers (https://mlopez-ibanez.github.io/eaf/).|
