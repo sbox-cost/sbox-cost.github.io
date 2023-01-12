@@ -9,12 +9,16 @@
      border-collapse: collapse !important;
 }
 .main-content table th, .main-content table td {
+    vertical-align: top;
      border: none !important;
      outline:none !important;
 }
- .photo img {
+ .photo {
      vertical-align: top;
      width: 100px;
      max-width:100px !important;
 }
  
+ .float-right {
+     float: right;
+ }
