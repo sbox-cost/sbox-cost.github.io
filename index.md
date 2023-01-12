@@ -41,6 +41,8 @@ TODO
 
 TODO
 
+<img src="/assets/fig/lopez-ibanez-small.jpg">
+![](/assets/fig/lopez-ibanez-small.jpg)
 ## Organizers
 
 | |**Anna Kononova**|
