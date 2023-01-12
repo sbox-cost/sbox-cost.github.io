@@ -1,4 +1,8 @@
-# GECCO 2023 Workshop on Strict Box-Constrained Optimization
+---
+layout: page
+title: GECCO 2023 Workshop on Strict Box-Constrained Optimization
+nav_order: 2
+---
 
 See also: <https://gecco-2023.sigevo.org/Workshops#SBOX-COST>
 
