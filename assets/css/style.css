@@ -3,11 +3,12 @@
 
 @import "{{ site.theme }}";
 
-#organizers > table { border: none !important; outline:none !important; border-collapse: collapse !important }
-#organizers > th, td { border: none !important; outline:none !important; }
-td img {
+.main-content table { border: none !important; outline:none !important; border-collapse: collapse !important }
+.main-content th, .main-content td { border: none !important; outline:none !important; }
+
+.main-content td img {
     vertical-align: top;
     width: 100px;
-    max-width:100px !important
+    max-width:100px !important;
 }
 
