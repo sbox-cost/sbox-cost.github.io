@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content table {
+     border: none !important;
+     outline:none !important;
+     border-collapse: collapse !important;
+}
+.main-content table th, .main-content table td {
+     border: none !important;
+     outline:none !important;
+}
+ .photo img {
+     vertical-align: top;
+     width: 100px;
+     max-width:100px !important;
+}
+ 
