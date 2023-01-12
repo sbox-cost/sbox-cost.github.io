@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-table { border-collapse: collapse }
+table { border: none; outline:none; border-collapse: collapse }
+th, td { border: none; outline:none; }
 
-table, th, td {   border: none; }
+ 
