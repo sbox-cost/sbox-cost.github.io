@@ -1,1 +1,1 @@
-See <https://box-cost.github.io>
+See <https://sbox-cost.github.io>
