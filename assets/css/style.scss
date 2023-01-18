@@ -13,12 +13,17 @@
      border: none !important;
      outline:none !important;
 }
- .photo {
-     vertical-align: top;
-     width: 100px;
-     max-width:100px !important;
+.photo {
+    vertical-align: top;
+    width: 100px;
+    max-width:100px !important;
 }
  
- .float-right {
-     float: right;
- }
+.float-right {
+    float: right;
+}
+
+@media screen and (min-width: 64em)
+.page-header {
+  padding: 1rem 6rem;
+}

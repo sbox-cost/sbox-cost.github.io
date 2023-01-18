@@ -1,5 +1,5 @@
 ---
-title: GECCO 2023 Workshop on Strict Box-Constrained Optimization
+title: Workshop on Strict Box-Constrained Optimization (SBOX-COST)
 ---
 
 ## Summary
