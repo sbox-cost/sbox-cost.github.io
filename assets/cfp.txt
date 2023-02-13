@@ -33,7 +33,10 @@ Topics of interest (but not limited to) include:
  
 For paper submission instructions and templates, please see the submission instructions https://gecco-2023.sigevo.org/Paper-Submission-Instructions 
  
- 
+## Special Issue
+
+Selected papers will be invited to a special issue in a reputable journal.
+
 ## Important (STRICT) deadline dates (preliminary)
  
 Submission opening: February 11, 2023
