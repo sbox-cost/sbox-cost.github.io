@@ -27,7 +27,19 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 ## Paper submission
 
-TBA
+Two types of submissions will be accepted for this workshop: 
+
+1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. LINK TO EXAMPLE DATA
+%Discussion of the impact of box-constraints on algorithm performance or on reproducibility is also encouraged. 
+
+2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints. %The workshop aims to promote the research on theory and applications of algorithms to problems with box-constraints.
+
+Topics of interest (but not limited to) include:
+  *  New insights of existing algorithms when applied to box-constrained problems
+  *  Performance analysis and visualization of algorithms on the provided BBOB SBOX-COST suite of test functions
+  *	Algorithm design for box-constrained problems 
+  *	Metrics for benchmarking algorithm performance on and complexity of box-constrained problems
+  *	Other aspects of box-constrained benchmarking optimization algorithms
 
 ### Instructions on submission
 
