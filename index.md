@@ -16,10 +16,11 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 ## Important Dates ##
 
-|April ??, 2023  |Workshop paper submission deadline|
-|April ??, 2023  |Notification of acceptance        |
-|May ??, 2023    |Camera-ready deadline             |
-|May ??, 2023    |Author registration deadline      |
+|Submission opening | February 11, 2023|
+|Submission deadline | April, 2023|
+|Notification | April, 2023|
+|Camera-ready | May, 2023|
+|Presenter mandatory registration | May, 2023|
 
 ## Call for papers
 
@@ -27,21 +28,22 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 ## Paper submission
 
-Two types of submissions will be accepted for this workshop: 
+Two types of submissions will be accepted for this workshop:
 
-1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. LINK TO EXAMPLE DATA
-%Discussion of the impact of box-constraints on algorithm performance or on reproducibility is also encouraged. 
+1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. Please refer to the following link for the data and instructions on how to use it [LINK TO EXAMPLE DATA]()
 
-2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints. %The workshop aims to promote the research on theory and applications of algorithms to problems with box-constraints.
+2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints.
 
 Topics of interest (but not limited to) include:
-  *  New insights of existing algorithms when applied to box-constrained problems
-  *  Performance analysis and visualization of algorithms on the provided BBOB SBOX-COST suite of test functions
-  *	Algorithm design for box-constrained problems 
-  *	Metrics for benchmarking algorithm performance on and complexity of box-constrained problems
-  *	Other aspects of box-constrained benchmarking optimization algorithms
+ * New insights of existing algorithms when applied to box-constrained problems
+ * Performance analysis and visualization of algorithms on the provided BBOB SBOX-COST suite of test functions
+ * Algorithm design for box-constrained problems 
+ * Metrics for benchmarking algorithm performance on and complexity of box-constrained problems
+ * Other aspects of box-constrained benchmarking optimization algorithms
 
 ### Instructions on submission
+
+For paper submission instructions and templates, please see the GECCO submission instructions: https://gecco-2023.sigevo.org/Paper-Submission-Instructions 
 
 (see experimental setup), a doi of the zenodo submission with
 data and resproducibility steps
