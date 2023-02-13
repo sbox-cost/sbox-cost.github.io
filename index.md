@@ -16,11 +16,11 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 ## Important Dates ##
 
-|Submission opening | February 11, 2023|
-|Submission deadline | April, 2023|
-|Notification | April, 2023|
-|Camera-ready | May, 2023|
-|Presenter mandatory registration | May, 2023|
+| Submission opening              | February 13, 2023 |
+| Submission deadline             | April 14,    2023 |
+| Notification to authors         | May 3,      2023 |
+| Camera-ready papers             | May 10,      2023 |
+| Author’s mandatory registration | May 10,      2023 |
 
 ## Call for papers
 
