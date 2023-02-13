@@ -1,0 +1,56 @@
+***********************************************************
+CALL FOR PAPERS
+***********************************************************
+ 
+GECCO 2023 Workshop on
+Strict Box-Constraint Optimization Studies (SBOX-COST)
+ 
+The Genetic and Evolutionary Computation Conference (GECCO 2023)
+July 15-19, 2023, Lisbon, Portugal. 
+ 
+Webpage: https://sbox-cost.github.io
+ 
+## About the workshop
+ 
+Benchmarking plays a critical role in the design and development of optimization algorithms. The way in which benchmark suites are set up thus influences the set of algorithms recommended to practitioners and biases the goals of algorithm designers. The focus of this workshop is on benchmarking algorithms on problems with box constraints (i.e. upper and lower limits on the input variables defining the domain of the search space). In practical applications, evaluating points outside of the domain is often impossible, or not sensible, and as such, should be avoided. However, in benchmarking as practiced today, problems are well-defined even outside of the stated parameter ranges, which translates to the algorithms being able to safely ignore these ranges and operate on infeasible solutions.
+
+Setting up box constraints represents the simplest type of constraints and gives rise to the so-called box-constrained problems. In this workshop, we will discuss in more detail how the presence of box-constraints impacts the performance of optimization algorithms and provide participants with a new variant of the BBOB suite called SBOX-COST for continuous, single-objective, noiseless optimization. 
+
+Two types of submissions will be accepted for this workshop: 
+
+1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. LINK TO EXAMPLE DATA
+%Discussion of the impact of box-constraints on algorithm performance or on reproducibility is also encouraged. 
+
+2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints. %The workshop aims to promote the research on theory and applications of algorithms to problems with box-constraints.  
+Topics of interest (but not limited to) include:
+ • New insights of existing algorithms when applied to box-constrained problems
+ • Performance analysis and visualization of algorithms on the provided BBOB SBOX-COST suite of test functions
+ • Algorithm design for box-constrained problems 
+ • Metrics for benchmarking algorithm performance on and complexity of box-constrained problems
+ • Other aspects of box-constrained benchmarking optimization algorithms
+  
+## Submission
+ 
+We invite papers up to 8 pages relevant to the workshop and position papers of up to 2 pages showing results. We also welcome demonstrations or presentations on ground-breaking theoretical and application results in the field.
+ 
+For paper submission instructions and templates, please see: Paper submission instructions
+ 
+## Important (STRICT) deadline dates
+ 
+Submission opening: February 11, 2022
+Submission deadline: April 11, 2022
+Notification: April 25, 2022
+Camera-ready: May 2, 2022
+Presenter mandatory registration: May 2, 2022
+ 
+ 
+## Workshop organizers
+ 
+Anna V. Kononova (Leiden University, NL), Olaf Mersmann (TH Koeln, GER), Diederick Vermetten (Leiden University, NL), Manuel Lopez-Ibanez (The University of Manchester, UK), Richard Allmendinger (The University of Manchester, UK), Youngmin Kim (The University of Manchester, UK)
+ 
+More information about the organizers can be found on the workshop webpage: https://sbox-cost.github.io
+ 
+ 
+## Contact
+ 
+Please feel free contact <a.kononova@liacs.leidenuniv.nl> in case of questions. 
