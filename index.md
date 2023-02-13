@@ -43,7 +43,7 @@ Topics of interest (but not limited to) include:
 
 ### Instructions on submission
 
-For paper submission instructions and templates, please see the GECCO submission instructions: https://gecco-2023.sigevo.org/Paper-Submission-Instructions 
+For paper submission instructions and templates, please see the GECCO submission instructions: <https://gecco-2023.sigevo.org/Paper-Submission-Instructions>
 
 (see experimental setup), a doi of the zenodo submission with
 data and resproducibility steps
