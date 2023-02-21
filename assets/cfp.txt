@@ -18,7 +18,7 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 Two types of submissions will be accepted for this workshop: 
 
-1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. Please refer to the following link for the data and instructions on how to use it LINK TO EXAMPLE DATA
+1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. Please refer to the following link for the data and instructions on how to use it: https://github.com/sbox-cost/Examples
 
 2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints. 
 
@@ -33,10 +33,6 @@ Topics of interest (but not limited to) include:
  
 For paper submission instructions and templates, please see the submission instructions https://gecco-2023.sigevo.org/Paper-Submission-Instructions 
  
-## Special Issue
-
-Selected papers will be invited to a special issue in a reputable journal.
-
 ## Important (STRICT) deadline dates (preliminary)
 
 Submission opening: February 13, 2023
