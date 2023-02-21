@@ -48,15 +48,17 @@ For paper submission instructions and templates, please see the GECCO submission
 (see experimental setup), a doi of the zenodo submission with
 data and resproducibility steps
 
-TODO
+You can find an example paper [here](/assets/paper-example.pdf)
 
-### Instructions for generating plots with IOH (ask Diederick) and COCO (ask who?)
+### Instructions for generating plots with IOH and COCO
 
-TODO
+See <https://github.com/sbox-cost/Examples>
 
-### Examples of data (ask Diederick, Anna)
+### Examples of data
 
-TODO
+See Zenodo repository: <https://doi.org/10.5281/zenodo.7649077>
+
+
 
 ## Organizers
 
