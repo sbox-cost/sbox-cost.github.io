@@ -30,7 +30,7 @@ Setting up box constraints represents the simplest type of constraints and gives
 
 Two types of submissions will be accepted for this workshop:
 
-1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. Please refer to the following link for the data and instructions on how to use it [LINK TO EXAMPLE DATA]()
+1. Short papers (up to 4 pages) reporting results of new or existing algorithms on the provided BBOB SBOX-COST suite of (box-constrained) test functions. Please refer to the following link for the data and instructions on how to use it: <https://github.com/sbox-cost/Examples>
 
 2. Longer papers (up to 8 pages) discussing aspects related to the presence of box-constraints.
 
